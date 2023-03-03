@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/milena-portfolio/static/css/main.c2cab247.css",
+    "main.js": "/milena-portfolio/static/js/main.d93d078a.js",
+    "index.html": "/milena-portfolio/index.html",
+    "main.c2cab247.css.map": "/milena-portfolio/static/css/main.c2cab247.css.map",
+    "main.d93d078a.js.map": "/milena-portfolio/static/js/main.d93d078a.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c2cab247.css",
+    "static/js/main.d93d078a.js"
+  ]
+}
